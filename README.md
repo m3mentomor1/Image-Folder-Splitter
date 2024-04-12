@@ -6,7 +6,7 @@ This is a simple program that allows you to split a folder containing image file
 ----------------------
 
 ### 📦 II. Dependencies
-- 
+- **OS** - a library that provides a way of using operating system-dependent functionality. 
 
 ----------------------
 
